@@ -1,2 +1,2 @@
-# DigitalHumanities
+# 博物馆信息化
 博概课程作业
